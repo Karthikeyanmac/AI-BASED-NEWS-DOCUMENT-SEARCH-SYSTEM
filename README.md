@@ -71,6 +71,20 @@ Pandas organizes the results
         ↓
 Results are displayed to the user
 
+📁 Dataset Setup
+
+- Place the 20newsbydate dataset folder inside the project directory.
+
+- The structure should be:
+
+20-newsgroups-sentence-finder/
+│
+├── search_news.py
+│
+└── 20newsbydate/
+    ├── 20news-bydate-train/
+    └── 20news-bydate-test/
+
 
 
 
