@@ -26,7 +26,7 @@ The project demonstrates practical implementation of:
 - ⚠️ Handle unreadable files without stopping the program
 
 # 🧩 Output
-![1](https://github.com/Karthikeyanmac/Traffic-Light-Controller-Using-NE555-Timer-IC/blob/main/schematic_traffic_light_555.jpg)
+![1](https://github.com/Karthikeyanmac/AI-BASED-NEWS-DOCUMENT-SEARCH-SYSTEM/blob/main/output.jpg)
 
 # 🛠️ Terminal
 ![2](https://github.com/Karthikeyanmac/AI-BASED-NEWS-DOCUMENT-SEARCH-SYSTEM/blob/main/output2.jpg)
