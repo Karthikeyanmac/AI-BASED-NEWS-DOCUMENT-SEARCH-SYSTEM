@@ -78,12 +78,12 @@ Results are displayed to the user
 - The structure should be:
 
 20-newsgroups-sentence-finder/
-│
-├── search_news.py
-│
-└── 20newsbydate/
-    ├── 20news-bydate-train/
-    └── 20news-bydate-test/
+- │
+- ├── search_news.py
+- │
+- └── 20newsbydate/
+-   ├── 20news-bydate-train/
+-   └── 20news-bydate-test/
 
 
 
