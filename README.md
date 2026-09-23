@@ -32,15 +32,19 @@ The project demonstrates practical implementation of:
 ![Breadboard](https://github.com/Karthikeyanmac/Traffic-Light-Controller-Using-NE555-Timer-IC/blob/main/breadboard_image.jpg)
 
 # 🛠️ Technologies Used
- Technology                  	|Purpose
--Python	Core                  |programming language
--OS Module	                  |Folder traversal and file path handling
--Pandas	                      |Organizing search results
--File Handling	              |Reading text documents
--String Processing	          |Case-insensitive sentence matching
--Time Module	                |Measuring search performance
--VS Code	                    |Development environment
--20 Newsgroups Dataset	      |Text document dataset
+## 🛠️ Technology and Purpose
+
+| Technology                | Purpose                                 |
+| ------------------------- | --------------------------------------- |
+| **Python**                | Core programming language               |
+| **OS Module**             | Folder traversal and file path handling |
+| **Pandas**                | Organizing search results               |
+| **File Handling**         | Reading text documents                  |
+| **String Processing**     | Case-insensitive sentence matching      |
+| **Time Module**           | Measuring search performance            |
+| **VS Code**               | Development environment                 |
+| **20 Newsgroups Dataset** | Text document dataset                   |
+
 
 
 # How the System Works
