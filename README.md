@@ -13,17 +13,17 @@ The project demonstrates practical implementation of:
 
 # ⚡ Features
 
-🔍 Search for a sentence across the entire dataset
-📂 Recursively search nested folders and subfolders
-📄 Read and search multiple text files
-🔤 Case-insensitive text matching
-📍 Display the exact file containing the sentence
-📁 Display the corresponding folder/category
-🛣️ Display the complete file path
-📊 Display search results using Pandas
-📈 Count the total number of files checked
-⏱️ Measure the total search time
-⚠️ Handle unreadable files without stopping the program
+-🔍 Search for a sentence across the entire dataset
+-📂 Recursively search nested folders and subfolders
+-📄 Read and search multiple text files
+-🔤 Case-insensitive text matching
+-📍 Display the exact file containing the sentence
+-📁 Display the corresponding folder/category
+-🛣️ Display the complete file path
+-📊 Display search results using Pandas
+-📈 Count the total number of files checked
+-⏱️ Measure the total search time
+-⚠️ Handle unreadable files without stopping the program
 
 # 🧩 Schematic
 ![schematic](https://github.com/Karthikeyanmac/Traffic-Light-Controller-Using-NE555-Timer-IC/blob/main/schematic_traffic_light_555.jpg)
