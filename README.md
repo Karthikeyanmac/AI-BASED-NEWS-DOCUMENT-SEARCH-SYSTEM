@@ -25,11 +25,11 @@ The project demonstrates practical implementation of:
 - ⏱️ Measure the total search time
 - ⚠️ Handle unreadable files without stopping the program
 
-# 🧩 Schematic
-![schematic](https://github.com/Karthikeyanmac/Traffic-Light-Controller-Using-NE555-Timer-IC/blob/main/schematic_traffic_light_555.jpg)
+# 🧩 Output
+![1](https://github.com/Karthikeyanmac/Traffic-Light-Controller-Using-NE555-Timer-IC/blob/main/schematic_traffic_light_555.jpg)
 
-# 🛠️ Breadboard Implementation
-![Breadboard](https://github.com/Karthikeyanmac/Traffic-Light-Controller-Using-NE555-Timer-IC/blob/main/breadboard_image.jpg)
+# 🛠️ Terminal
+![2](https://github.com/Karthikeyanmac/Traffic-Light-Controller-Using-NE555-Timer-IC/blob/main/breadboard_image.jpg)
 
 # 🛠️ Technologies Used
 ## 🛠️ Technology and Purpose
