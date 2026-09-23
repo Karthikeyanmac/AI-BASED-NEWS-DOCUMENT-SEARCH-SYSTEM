@@ -29,7 +29,7 @@ The project demonstrates practical implementation of:
 ![1](https://github.com/Karthikeyanmac/Traffic-Light-Controller-Using-NE555-Timer-IC/blob/main/schematic_traffic_light_555.jpg)
 
 # 🛠️ Terminal
-![2](https://github.com/Karthikeyanmac/Traffic-Light-Controller-Using-NE555-Timer-IC/blob/main/breadboard_image.jpg)
+![2](https://github.com/Karthikeyanmac/AI-BASED-NEWS-DOCUMENT-SEARCH-SYSTEM/blob/main/output2.jpg)
 
 # 🛠️ Technologies Used
 ## 🛠️ Technology and Purpose
