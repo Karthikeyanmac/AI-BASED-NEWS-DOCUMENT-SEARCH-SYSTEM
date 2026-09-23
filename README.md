@@ -82,8 +82,8 @@ Results are displayed to the user
 - ├── search_news.py
 - │
 - └── 20newsbydate/
--   ├── 20news-bydate-train/
--   └── 20news-bydate-test/
+ -   ├── 20news-bydate-train/
+ -   └── 20news-bydate-test/
 
 
 
